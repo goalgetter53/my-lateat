@@ -1,0 +1,9 @@
+targets:
+  $default:
+    builders:
+      isar_generator|generator:
+        generate_for:
+          - lib/features/auth/data/models/user_model.dart
+        enabled: true
+        options:
+          directory: isar_db

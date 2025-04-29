@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "506497134748",
+    "project_id": "safey-app-e6674",
+    "storage_bucket": "safey-app-e6674.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506497134748:android:00be6cd27dd189cede7d59",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506497134748-3422hp8kpceodaevo4drv2a1cremph9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenkhvy_qCVT2dYPUd9U7150hdPHgJ9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506497134748-3422hp8kpceodaevo4drv2a1cremph9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506497134748-bcqjvcuim4823mt28fnn3lbas50mnmhc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myflutterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
